@@ -6,8 +6,7 @@ for this project I had 5 goals to complete
 2. My Videocam and the image screen scaling for the efficient interaction
 3. find out the coordinates of the regions of the heart and give the label output with respect to that
 4. Use the synthsized engine for voice of the labels
-5. Mkae a suitable GUI to integrate both the videos
-[heart-diagram](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/25a218c7-e4da-4794-9d45-400610924431)
+5. Make a suitable GUI to integrate both the videos[heart-diagram](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/25a218c7-e4da-4794-9d45-400610924431)
 
 # Goal 1
 For the first goal I used OpenCV and Mediapipe for the landmarks detection to make the pointer and adjusted the code to get the landmark for index finger only since it was only going to be used
