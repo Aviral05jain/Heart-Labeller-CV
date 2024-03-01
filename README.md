@@ -32,4 +32,5 @@ Other was the waiting of the engine of the speaker. It was a bit problematic bea
 
 In the end I have made a project with the tangible output. But surely I will work on the optimization and performance increment
 
-Thank you Krishna Sir for giving me this opportunity to hone myself in my field of Interest i.e AI and Machine Learning with special regard in Computer Vision
+Thank you Krishna Sir for giving me this opportunity to hone myself in my field of Interest i.e AI and Machine Learning with special regard in Computer Vision![heart-diagram](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/25a218c7-e4da-4794-9d45-400610924431)
+
