@@ -7,6 +7,7 @@ for this project I had 5 goals to complete
 3. find out the coordinates of the regions of the heart and give the label output with respect to that
 4. Use the synthsized engine for voice of the labels
 5. Mkae a suitable GUI to integrate both the videos
+[heart-diagram](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/25a218c7-e4da-4794-9d45-400610924431)
 
 # Goal 1
 For the first goal I used OpenCV and Mediapipe for the landmarks detection to make the pointer and adjusted the code to get the landmark for index finger only since it was only going to be used
@@ -32,5 +33,8 @@ Other was the waiting of the engine of the speaker. It was a bit problematic bea
 
 In the end I have made a project with the tangible output. But surely I will work on the optimization and performance increment
 
-Thank you Krishna Sir for giving me this opportunity to hone myself in my field of Interest i.e AI and Machine Learning with special regard in Computer Vision![heart-diagram](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/25a218c7-e4da-4794-9d45-400610924431)
+![Screenshot 2024-03-01 235637](https://github.com/Aviral05jain/Heart-Labeller-CV/assets/110279490/d1eeac79-57a8-45cc-b90c-327cf41988e0)
+
+Thank you Krishna Sir for giving me this opportunity to hone myself in my field of Interest i.e AI and Machine Learning with special regard in Computer Vision!
+
 
